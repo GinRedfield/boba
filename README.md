@@ -2,7 +2,7 @@
 
 ## Introduction
 ***
-Boba is a MERN stack webapp paltform pre-built with login/register authentication.
+boba is a MERN stack webapp paltform pre-built with login/register authentication.
 <br>
 Pre-built functions include register, login, logout, changing password, deleting account, navigation, etc.
 <br>
@@ -11,7 +11,7 @@ Pre-built functions include register, login, logout, changing password, deleting
 ## Environment
 ***
 To get this app to work, the necessary environment must be installed first.<br>
-Boba requires 
+boba requires 
 <ol>
   <li>Mongdb</li>
   <li>Node.js</li>
@@ -45,4 +45,4 @@ After setting up the environment, follow the steps below:
 
 ## License
 ***
-Roff is open-sourced software licensed under the MIT license.
+boba is open-sourced software licensed under the MIT license.
