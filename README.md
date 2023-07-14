@@ -31,7 +31,7 @@ After setting up the environment, follow the steps below:
     npm install
 
   </li>
-  <li>Make sure MongoDb is online, create a database use MongoDB Compass
+  <li>Make sure MongoDb is online, create a database {boba_db} use MongoDB Compass
   </li>
   <li>To start the application, run:
   
