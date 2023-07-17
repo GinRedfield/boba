@@ -2,7 +2,7 @@
 
 ## Introduction
 ***
-boba is a MERN stack webapp paltform pre-built with login/register authentication.
+boba is a MERN stack webapp pre-built with login/register authentication module, and a basic Bootstrap user interface.
 <br>
 Pre-built functions include register, login, logout, changing password, deleting account, navigation, etc.
 <br>
